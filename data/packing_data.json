@@ -1,0 +1,45 @@
+{
+  "config": {
+    "bigger_first": true,
+    "max_weight": 1000,
+    "output_file": "output/results.json"
+  },
+  "bins": [
+    {"id": "箱子1", "width": 39, "height": 49, "depth": 24},
+    {"id": "箱子2", "width": 39, "height": 49, "depth": 24}
+  ],
+  "items": [
+    {"id": "item_001", "name": "血与刃的白蔷薇", "width": 14.5, "height": 14.5, "depth": 5, "weight": 1},
+    {"id": "item_002", "name": "行动代号", "width": 23.2, "height": 16.2, "depth": 5, "weight": 1},
+    {"id": "item_003", "name": "鲜血盟约", "width": 20.4, "height": 20.4, "depth": 3, "weight": 1},
+    {"id": "item_004", "name": "暑假日记", "width": 15.5, "height": 10.2, "depth": 4.6, "weight": 1},
+    {"id": "item_005", "name": "屁者先知", "width": 13.9, "height": 13.2, "depth": 6.9, "weight": 1},
+    {"id": "item_006", "name": "一夜终极狼人", "width": 17.5, "height": 13.4, "depth": 3.8, "weight": 1},
+    {"id": "item_007", "name": "骇浪求生", "width": 19.6, "height": 10.4, "depth": 3.6, "weight": 1},
+    {"id": "item_008", "name": "冰冷的她醒来之前", "width": 10.4, "height": 9, "depth": 2.5, "weight": 1},
+    {"id": "item_009", "name": "两室一弹", "width": 20.3, "height": 14.3, "depth": 4, "weight": 1},
+    {"id": "item_010", "name": "炸弹猫：灾厄菜谱", "width": 30.5, "height": 20.8, "depth": 7.8, "weight": 1},
+    {"id": "item_011", "name": "情书", "width": 10.2, "height": 14.2, "depth": 3.3, "weight": 1},
+    {"id": "item_012", "name": "红色的门与杀人鬼的钥匙", "width": 10.5, "height": 8, "depth": 3, "weight": 1},
+    {"id": "item_013", "name": "赎罪之旅", "width": 14.3, "height": 10.3, "depth": 3.4, "weight": 1},
+    {"id": "item_014", "name": "克苏鲁的神话厨房", "width": 21.6, "height": 16.7, "depth": 5.2, "weight": 1},
+    {"id": "item_015", "name": "黄牌", "width": 23, "height": 16, "depth": 7.4, "weight": 1},
+    {"id": "item_016", "name": "5秒定律", "width": 27.8, "height": 13.8, "depth": 7.5, "weight": 1},
+    {"id": "item_017", "name": "谍报风云", "width": 23, "height": 16, "depth": 5.1, "weight": 1},
+    {"id": "item_018", "name": "陪酒扑克", "width": 9, "height": 6, "depth": 2, "weight": 1},
+    {"id": "item_019", "name": "犯罪现场：CSI还原真相", "width": 20, "height": 20, "depth": 4.2, "weight": 1},
+    {"id": "item_020", "name": "印加寻宝", "width": 20.1, "height": 20.1, "depth": 5.1, "weight": 1},
+    {"id": "item_021", "name": "飞蛾族类", "width": 11.7, "height": 11.7, "depth": 3.5, "weight": 1},
+    {"id": "item_022", "name": "德国心脏病", "width": 17.1, "height": 12.9, "depth": 5.9, "weight": 1},
+    {"id": "item_023", "name": "犯人在跳舞", "width": 14.1, "height": 13.1, "depth": 3.1, "weight": 1},
+    {"id": "item_024", "name": "还玩好游戏", "width": 15.2, "height": 11, "depth": 4, "weight": 1},
+    {"id": "item_025", "name": "三国杀：诸侯讨董", "width": 20, "height": 15.2, "depth": 3, "weight": 1},
+    {"id": "item_026", "name": "三国杀王者之战", "width": 13, "height": 9, "depth": 3.5, "weight": 1},
+    {"id": "item_027", "name": "猩猩相惜", "width": 15, "height": 10, "depth": 5.1, "weight": 1},
+    {"id": "item_028", "name": "瞎掰王", "width": 14.9, "height": 9.8, "depth": 5.2, "weight": 1},
+    {"id": "item_029", "name": "德国蟑螂", "width": 11.3, "height": 11.3, "depth": 3.5, "weight": 1},
+    {"id": "item_030", "name": "赌命大赛", "width": 15.3, "height": 15.3, "depth": 7, "weight": 1},
+    {"id": "item_031", "name": "Leet Poker", "width": 12, "height": 9.2, "depth": 3, "weight": 1},
+    {"id": "item_032", "name": "小黑屋：第三版", "width": 26.8, "height": 26.8, "depth": 8.8, "weight": 1}
+  ]
+}
