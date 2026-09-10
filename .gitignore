@@ -1,4 +1,7 @@
 .venv/
+output/
+
+data/
 
 .idea/
 *.xml
